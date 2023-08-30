@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is my blog to respond to prompts for my class ST558: Data Science for Statisticians.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am taking this class as part of NC State Univerisity's graduate certificate program for Applied Statistics and Data Managment.
