@@ -3,8 +3,10 @@ This is my blog to respond to prompts for my class ST558: Data Science for Stati
 
 ## About Me
 Here are a few things that I am interested in:
-* Professional Sports (Boston team)  
+* Professional Sports  
     + Basketball
     + Football
-
+* Movies
+* 
 ![](C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/Celtics.png)
+
