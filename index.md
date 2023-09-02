@@ -7,5 +7,4 @@ Here are a few things that I am interested in:
     + Basketball
     + Football
 
-
 ![](C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/Celtics.png)
