@@ -3,16 +3,17 @@ This is my blog to respond to prompts for my class ST558: Data Science for Stati
 
 ## Interests
 Here are a few things that I am interested in:
+
 * Professional Sports  
     + Basketball  
     + Football  
-![](C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/Celtics.png) 
+![](C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/Celtics.png)  
 * Movies  
     + Quentin Tarantino  
     + Christopher Nolan  
 * TV  
     + The Office  
     + Breaking Bad  
-![](/Blog Images/The Office.jpg)  
+![](C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/The Office.jpg)  
 
  
