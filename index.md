@@ -13,6 +13,6 @@ Here are a few things that I am interested in:
 * TV  
     + The Office  
     + Breaking Bad  
-![](C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/The Office.jpg)  
+![](/Blog Images/The Office.jpg)  
 
  
