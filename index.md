@@ -4,21 +4,19 @@ This is my blog to respond to prompts for my class ST558: Data Science for Stati
 ## Interests
 Here are a few things that I am interested in (unrelated to statistics):
 
-* Professional Sports  
+* **Professional Sports**  
     + Basketball  
     + Football  
 <img src="Celtics.png" height="200"/>
 <br />  
-<br />  
   
-* Movies
+* **Movies**
     + Quentin Tarantino  
     + Christopher Nolan  
 <img src="Tenet_Meme.png" width="500"/>  
 <br />  
-<br />  
   
-* TV  
+* **TV**  
     + The Office  
     + Breaking Bad  
 <img src="The_Office.jpg" width="400"/>  
