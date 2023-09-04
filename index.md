@@ -8,14 +8,14 @@ Here are a few things that I am interested in (unrelated to statistics):
     + Basketball  
     + Football  
 <img src="Celtics.png" height="200"/>
-
-   
+<br />  
+  
 * Movies
     + Quentin Tarantino  
     + Christopher Nolan  
 <img src="Tenet_Meme.png" width="500"/>  
-
-   
+<br />  
+  
 * TV  
     + The Office  
     + Breaking Bad  
