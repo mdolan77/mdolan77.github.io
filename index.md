@@ -7,16 +7,16 @@ Here are a few things that I am interested in (unrelated to statistics):
 * Professional Sports  
     + Basketball  
     + Football  
-![](/C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/Celtics.png)  
+![](/Celtics.png){width=50%}
   
 * Movies
     + Quentin Tarantino  
     + Christopher Nolan  
-![](/C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/Tenet Meme.png)  
+![](/Tenet_Meme.png)  
 
 * TV  
     + The Office  
     + Breaking Bad  
-![](/C:/Users/dolan/Desktop/NC State Grad Program/ST558/Blog Images/The Office.jpg)  
+![](/The_Office.jpg)  
   
  
