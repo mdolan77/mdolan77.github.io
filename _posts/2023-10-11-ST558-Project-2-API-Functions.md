@@ -6,7 +6,7 @@ For this project I created functions that pull to pull data from the balldontlie
 I knew I wanted to do this project on a sports API, preferably basketball data, and after a lot of research and investigating different APIs, this one seemed like it had the best instructions for pulling data. There were some issues that I needed to work through, like it only allows 100 rows of data to be pull on each API request. I was able to learn a way to loop through multiple request and vertically merge the data together to pull larger amounts of data. One thing I would do differently is start this project earlier, since now I am trying to get the github-pages site to work. I was able to get the template .Rmd file to work, but now after switching my repo back to public, when I click the link it says 404 File not found.
   
 
-Here is the link to my Github repo: https://github.com/mdolan77/ST558_Project2
+Here is the link to my Github repo: <https://github.com/mdolan77/ST558_Project2>
   
 
-Here is the link to my vignette: https://mdolan77.github.io/ST558_Project2/
+Here is the link to my vignette: <https://mdolan77.github.io/ST558_Project2/>
