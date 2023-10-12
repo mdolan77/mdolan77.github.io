@@ -7,7 +7,7 @@ I knew I wanted to do this project on a sports API, preferably basketball data, 
 
 One thing I would do differently is start this project earlier, since now I am trying to get the github-pages site to work. I was originally able to get the template .Rmd file to work, but now after switching my repo back to public, when I click the link it says 404 File not found.  
 
-Update: I realized that I needed to re-do some of the instructions after putting my sight back on public. The branch got set back to None under Build and Deployment, so I needed to set it back to Main and it works now.
+*Update: I realized that I needed to re-do some of the instructions after putting my sight back on public. The branch got set back to None under Build and Deployment, so I needed to set it back to Main and it works now.*
   
 
 Here is the link to my Github repo: <https://github.com/mdolan77/ST558_Project2>
